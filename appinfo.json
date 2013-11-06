@@ -1,0 +1,15 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "213a2b1c-0846-4f63-8cd7-ac16bdf07f12",
+    "appKeys": {},
+    "longName": "Piedra",
+    "versionCode": 1,
+    "shortName": "Piedra",
+    "companyName": "thunsaker",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    }
+}
